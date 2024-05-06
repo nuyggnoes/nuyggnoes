@@ -1,11 +1,9 @@
-<div align="center">
+<div>
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=000607)
   ####   Welcome my github profile! 
   ### I'm Im Seonggyun :wave:
+  <hr>
 
-  
- <br/>
  <br/>
   
 ####  :clipboard: Once I've Used 
@@ -16,13 +14,19 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
+<br/>
+<div style="display: flex; flex-direction: column;">
+  <img height="180em" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=nuyggnoes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyggnoes&layout=compact&theme=dark">
+</div>
 
 <br/>
 <br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+
 <!--
 **nuyggnoes/nuyggnoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=000607)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nuyggnoes&show_icons=true&theme=transparent">
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
